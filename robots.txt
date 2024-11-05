@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ucoqeeka.github.io/Kxu/sitemap_index.txt
+Sitemap: https://ucoqeeka.github.io/ZjE/sitemap_index.txt
+Sitemap: https://ucoqeeka.github.io/jgT/sitemap_index.txt
+Sitemap: https://ucoqeeka.github.io/sch/sitemap_index.txt
